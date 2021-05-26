@@ -1,0 +1,10 @@
+
+<suite name="Test-Suite" >
+   <test name="Smoke" >
+       <classes> 
+          <class name="Runner.java" />
+       </classes>
+   </test>
+ </suite>
+ 
+ 
